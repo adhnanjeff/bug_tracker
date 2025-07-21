@@ -15,9 +15,9 @@
     <section class="form-section">
       <h2>Report a New Bug</h2>
       <form id="bugForm">
-        <input type="text" placeholder="Bug title" required>
-        <textarea placeholder="Bug description" required></textarea>
-        <select>
+        <input type="text" id="bugTitle" placeholder="Bug title" required>
+        <textarea id="bugDescription" placeholder="Bug description" required></textarea>
+        <select id="bugPriority">
           <option value="">Select priority</option>
           <option value="low">Low</option>
           <option value="medium">Medium</option>
@@ -39,5 +39,8 @@
   <footer>
     <p>&copy; 2025 BugTracker Inc.</p>
   </footer>
+
+
+  <script src="script.js"></script>
 </body>
 </html>
