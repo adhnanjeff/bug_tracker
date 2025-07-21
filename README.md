@@ -16,11 +16,11 @@ A GitHub repository to manage and track bugs efficiently, developed using separa
 
 ## 📸 Screenshots
 1. Merge Conflict
-<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/adhnanjeff/bug_tracker/blob/main/MergeConflict_Resolved.png" />
 2. Git Log
 <img width="885" height="786" alt="Git_logs" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
 3. Git Status
-<img width="696" height="312" alt="git_status" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+<img width="696" height="312" alt="git_status" src="https://github.com/adhnanjeff/bug_tracker/blob/main/git_status.png" />
 
 ## 🧾 Git Commit Convention
 
