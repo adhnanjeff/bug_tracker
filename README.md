@@ -24,10 +24,10 @@ fix: Tracker name change
 
 📸 Screenshots
 1. Merge Conflict
-<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/user-attachments/assets/740eaedc-728d-4128-9636-722b0351be90" />
+<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
 2. Git Log
-<img width="885" height="786" alt="Git_logs" src="https://github.com/user-attachments/assets/6c9f2c43-51de-4292-8534-3dab20cb8b94" />
+<img width="885" height="786" alt="Git_logs" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
 3. Git Status
-<img width="696" height="312" alt="git_status" src="https://github.com/user-attachments/assets/ac83a481-aee6-470a-ab4e-0561c8ed7057" />
+<img width="696" height="312" alt="git_status" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
 👤 Author
 Adhnan Jeff
