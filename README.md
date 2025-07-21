@@ -14,6 +14,14 @@ A GitHub repository to manage and track bugs efficiently, developed using separa
 - Conflict occurred in `index.html` during a pull from the remote `main` branch.
 - Conflict was resolved and committed properly.
 
+## 📸 Screenshots
+1. Merge Conflict
+<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+2. Git Log
+<img width="885" height="786" alt="Git_logs" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+3. Git Status
+<img width="696" height="312" alt="git_status" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+
 ## 🧾 Git Commit Convention
 
 This project follows **Conventional Commits** to ensure a clean and meaningful history. Example:
@@ -22,12 +30,6 @@ feat: added css to main
 fix: Tracker name change
 ---
 
-📸 Screenshots
-1. Merge Conflict
-<img width="968" height="658" alt="MergeConflict_Resolved" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
-2. Git Log
-<img width="885" height="786" alt="Git_logs" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
-3. Git Status
-<img width="696" height="312" alt="git_status" src="https://github.com/adhnanjeff/bug_tracker/blob/main/Git_logs.png" />
+
 👤 Author
 Adhnan Jeff
